@@ -1,22 +1,25 @@
 # NTBInsider App
 
-This is an Android app I made for the final project of Dicoding's course **"Belajar Membuat Aplikasi Android dengan Jetpack Compose"**. The project was reviewed and **Accepted** by Dicoding mentors.
+Android app I made for the final project of Dicoding's course **"Belajar Membuat Aplikasi Android dengan Jetpack Compose"**. The project was reviewed and **Accepted** by Dicoding mentors, with all checklist items marked as fulfilled.
+
+## 📌 Status
+✅ Accepted — Dicoding Academy Submission
 
 ## 🛠 Tech Stack
-
-- **Language:** Kotlin
-- **UI:** Jetpack Compose
-- **Architecture:** ViewModel, LiveData/State, Room Database
-- **Build Tool:** Gradle
+Kotlin · Jetpack Compose · ViewModel · Room Database
 
 ## ✨ Features
+- List page using **LazyList/LazyGrid** with at least 10 different items
+- **Detail page** that shows when an item is tapped, with image and relevant info
+- **About page** showing profile photo, name, and registered email
+- Local data storage using Room Database (`ObjectDao.kt`, `ObjectDB.kt`, `ObjectEntity.kt`)
 
-- The whole UI is built with Jetpack Compose (no XML layout files)
-- Saves data locally using Room Database (see `ObjectDao.kt`, `ObjectDB.kt`, `ObjectEntity.kt`)
-- Follows basic Android app structure (UI, data, and logic are separated)
+## ✅ Review Checklist (all passed)
+- List page with LazyList/LazyGrid, minimum 10 items
+- Detail page shown when an item is tapped
+- About page with photo, name, and email
 
 ## 📂 Project Structure
-
 ```
 app/
  └── src/main/
@@ -25,17 +28,10 @@ app/
 ```
 
 ## 🚀 How to Run
-
 1. Clone this repository
 2. Open the project in **Android Studio**
 3. Wait until Gradle sync is done
 4. Run it on an emulator or a real device
 
-## 📌 Status
-
-✅ Accepted — Dicoding Academy Submission
-
 ## 👩‍💻 Author
-
-**Yohana Putrisia Sitohang**
-[LinkedIn](https://linkedin.com/in/yohanasitohang)
+**Yohana Putrisia Sitohang** — [LinkedIn](https://linkedin.com/in/yohanasitohang)
