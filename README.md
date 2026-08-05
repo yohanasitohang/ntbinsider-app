@@ -6,7 +6,7 @@ Android app I made for the final project of Dicoding's course **"Belajar Membuat
 ✅ Accepted — Dicoding Academy Submission
 
 ## 🛠 Tech Stack
-Kotlin · Jetpack Compose · ViewModel · Room Database
+Kotlin · Jetpack Compose · Room Database
 
 ## ✨ Features
 - List page using **LazyList/LazyGrid** with at least 10 different items
@@ -23,7 +23,7 @@ Kotlin · Jetpack Compose · ViewModel · Room Database
 ```
 app/
  └── src/main/
-      ├── java/...        → Kotlin source code (UI, ViewModel, Database)
+      ├── java/...        → Kotlin source code (UI, Database)
       └── AndroidManifest.xml
 ```
 
