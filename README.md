@@ -1,4 +1,4 @@
-# Jetpack Compose Android App
+# NTBInsider App
 
 This is an Android app I made for the final project of Dicoding's course **"Belajar Membuat Aplikasi Android dengan Jetpack Compose"**. The project was reviewed and **Accepted** by Dicoding mentors.
 
