@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NTB Insider</string>
+
+    <string name="no_data">No matches found</string>
+    <string name="no_internet">Oops... There was an error</string>
+    <string name="searchbar_placeholder">Where do you want to visit?</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+</resources>
